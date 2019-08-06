@@ -22,7 +22,6 @@ for i in range(30):
 
 #Continuously perform inference
 while True:
-
     _ , image = camera.read()
     image = PIL.Image.fromarray(image)
 

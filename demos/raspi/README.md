@@ -118,8 +118,8 @@ python3 -c 'import tensorflow as tf; print(tf.__version__)'
 
 We provide example code to run the [Visual Wake Words](https://arxiv.org/abs/1906.05721) demo on Raspberry Pi, so if you want to start there, first clone this repo:
 ```
-git clone <insert link here>
-cd <link>
+git clone https://github.com/mit-han-lab/VWW
+cd VWW
 ```
 In this folder you'll find two files, `model_quantized.tflite` and `vww_demo.py`. The first file is our pretrained model on the Visual Wake Words dataset, while the second is the example code used to run the demo on Raspberry Pi. To run the demo, you need to install one dependency, `python3-opencv`, a computer vision library which we use to get a live image stream.
 
