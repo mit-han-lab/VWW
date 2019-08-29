@@ -1,4 +1,4 @@
-# Solution to Visual Wakeup Words Challenge (first place as of June 2019). 
+# Solution to Visual Wakeup Words Challenge'19 (first place). 
 
 **Participants:** Song Han, Ji Lin, Kuan Wang, Tianzhe Wang, Zhanghao Wu (following alphabetical order)
 
