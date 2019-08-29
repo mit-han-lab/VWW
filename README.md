@@ -1,4 +1,4 @@
-# Submission to Visual Wakeup Words Challenge
+# Solution to Visual Wakeup Words Challenge (first place as of June 2019). The demo code on Raspberry Pi is included in repo. 
 
 **Participants:** Song Han, Ji Lin, Kuan Wang, Tianzhe Wang, Zhanghao Wu (following alphabetical order)
 
@@ -22,10 +22,10 @@ python eval.py
 
 ## Citation
 ```
-@article{han2019design,
-  title={Design Automation for Efficient Deep Learning Computing},
-  author={Han, Song and Cai, Han and Zhu, Ligeng and Lin, Ji and Wang, Kuan and Liu, Zhijian and Lin, Yujun},
-  journal={arXiv preprint arXiv:1904.10616},
+@article{cai2018proxylessnas,
+  title={Proxylessnas: Direct neural architecture search on target task and hardware},
+  author={Cai, Han and Zhu, Ligeng and Han, Song},
+  journal={International Conference on Learning Representations (ICLR)},
   year={2019}
 }
 ```
