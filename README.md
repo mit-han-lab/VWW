@@ -1,4 +1,4 @@
-# Solution to Visual Wakeup Words Challenge (first place as of June 2019). The demo code on Raspberry Pi is included in repo. 
+# Solution to Visual Wakeup Words Challenge (first place as of June 2019). 
 
 **Participants:** Song Han, Ji Lin, Kuan Wang, Tianzhe Wang, Zhanghao Wu (following alphabetical order)
 
@@ -9,6 +9,8 @@
 We have converted our model to tflite format with uint8 quantization. Here we provide a script to evaluate the model with PyTorch data loader in `eval.py`. However, to keep consistent with TensorFlow preprocessing, we used the preprocessing function imported from tensorflow. The preprocessing we used is defined in `preprocess.py`.
 
 With the script, the model can get `94.575%` top-1 accuracy on minival set of VWW.
+
+The demo code on Raspberry Pi is included in repo. 
 
 
 
