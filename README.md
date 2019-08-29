@@ -10,7 +10,7 @@ We have converted our model to tflite format with uint8 quantization. Here we pr
 
 With the script, the model can get `94.575%` top-1 accuracy on minival set of VWW.
 
-The demo code on Raspberry Pi is included in this repo. 
+The demo code on Raspberry Pi and Android is included in this repo. 
 
 
 
